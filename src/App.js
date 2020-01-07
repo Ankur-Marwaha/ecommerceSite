@@ -4,7 +4,7 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Ankur</h1>
+      <h1>Ankur Next</h1>
     </div>
   );
 }
