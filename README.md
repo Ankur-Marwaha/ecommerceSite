@@ -1,2 +1,0 @@
-# ecommerceSite
-Created with CodeSandbox
